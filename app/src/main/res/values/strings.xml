@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_map은" translatable="false">Map Location</string>
+
+
+    <!-- Preference Data-->
+    <string name="pref_location_default" translatable="false">Seoul</string>
+    <string name="pref_location_key" translatable="false">Location</string>
+    <string name="pref_location_label">Location</string>
+    <!-- Preference UNITS Data-->
+    <string name="pref_units_label">Temperature Units</string>
+    <string name="pref_units_label_metric">Metric</string>
+    <string name="pref_units_label_imperial">Imperial</string>
+    <string name="pref_units_key" translatable="false">units</string>
+    <string name="pref_units_metric" translatable="false">metric</string>
+    <string name="pref_units_imperial" translatable="false">imperial</string>
+
+</resources>
